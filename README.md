@@ -1,79 +1,98 @@
-# 👋 Hi, I'm Eng. Mulki Isse Abukr
+#        Eng. Mulki Isse Abukr
 
-### 💻 Full Stack Developer | 🎨 UI/UX Lover | 🤖 Future AI Engineer
+###  Software Developer👩🏼‍💻 , Self-Taught Developer📑  Always Learning 🌸
 
-> *"Consistency today, Code tomorrow, Success forever."*
+>   A self-taught developer passionate about software development, building projects, and continuously improving my skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Software Development
 
-### 💻 Frontend
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 📱 Mobile Development
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+\
 
 ---
 
-## 🔧 Tools & Platforms
+##   Currently Learning
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+📚 **Self-Learning Software Development**
 
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer
-- 🌐 Building modern web applications
-- 📱 Interested in mobile app development
-- 🤖 Interested in AI & Chatbot development
-- 🎨 Passionate about UI/UX
-- 📚 Always learning new technologies
+* 🚀 Node.js
+* ⚡ Express.js
+* 📱 Flutter
+* ⚛️ React
+* 💻 Full-Stack Development
+* 🧩 Building real-world projects
+* 📖 Continuously improving my programming skills
 
 ---
 
-## 📌 My Projects
+## 🎯 My Goal
 
-### 🤖 AI Chatbot
-AI chatbot built using modern web technologies.
-
-### 🛒 E-Commerce Website
-E-commerce application for online shopping.
-
-### 📱 Flutter Application
-Cross-platform mobile application built with Flutter.
-
-### 🌐 Personal Portfolio
-My personal developer portfolio website.
+> To become a skilled **Full-Stack Software Developer** and build useful, modern, and user-friendly applications.
 
 ---
 
-## 📊 GitHub Stats
+##   What I'm Interested In
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+* 💻 Software Development
+* 🌐 Web Development
+* 📱 Mobile App Development
+* 🎨 UI/UX Design
+* 🚀 Real-World Projects
+* 📚 Continuous Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
+
+##   My Skills
+
+| Area           | Technologies                                 |
+| -------------- | -------------------------------------------- |
+| 🎨 Frontend    | HTML5, CSS3, JavaScript, React               |
+| 📱 Mobile      | Flutter                                      |
+| ⚙️ Backend     | Node.js, Express.js, PHP                     |
+| 💻 Development | Software Development, Full-Stack Development |
+
+---
+
+##   Projects
+
+### 🌐 Web Development
+
+Building responsive websites and web applications while improving my frontend and backend skills.
+
+### 📱 Flutter Projects
+
+Learning and building cross-platform mobile applications with Flutter.
+
+### 💻 Full-Stack Projects
+
+Working on projects that combine frontend and backend technologies.
+
+---
+
+##     My Learning Journey
+
+I am a **self-taught developer** who learns through:
+
+* 📖 Documentation and tutorials
+* 💻 Hands-on coding
+* 🧪 Experimenting with new technologies
+* 🚀 Building personal projects
+* 🔄 Learning from mistakes and improving continuously
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+💻 GitHub: **@mulkiisse**
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Coding • Keep Growing 🚀**
+###    Learn • Build • Improve • Repeat 🚀
