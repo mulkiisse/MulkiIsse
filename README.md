@@ -2,7 +2,7 @@
   <img src="./gbar.png" alt="GitHub Profile Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm [Mulki Isse ]</h1>
+<h1 align="center">I'm [Eng.Mulki Isse ]</h1>
 
 <h3 align="center">Software Engineer | Full Stack & Mobile App Developer</h3>
 
