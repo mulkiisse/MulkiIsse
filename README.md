@@ -1,98 +1,65 @@
-#        Eng. Mulki Isse Abukr
+<p align="center">
+  <img src="./gbar.png" alt="GitHub Profile Banner" width="100%">
+</p>
 
-###  Software Developer👩🏼‍💻 , Self-Taught Developer📑  Always Learning 🌸
+<h1 align="center">Hi 👋, I'm [Mulki Isse ]</h1>
 
->   A self-taught developer passionate about software development, building projects, and continuously improving my skills.
+<h3 align="center">Software Engineer | Full Stack & Mobile App Developer</h3>
+
+<p align="center">
+  🎓 Computer Science Student at <b>Himilo University</b>
+</p>
 
 ---
 
-## 🛠️ Software Development
+## 👨‍💻 About Me
 
-### 🎨 Frontend
+I am a **Computer Science student at Himilo University** with a strong interest in **Software Engineering, Full Stack Development, and Mobile App Development**.
+
+I am continuously working on improving my programming skills, expanding my technical knowledge, and gaining practical experience in software development, with a particular focus on **building mobile applications**.
+
+###   My Focus
+
+* 💻 Software Engineering
+* 🌐 Full Stack Development
+* 📱 Mobile App Development
+* 📚 Continuous Learning & Skill Development
+* 🛠️ Building and improving real-world software projects
+
+##   Languages & Technologies
 
 ### 📱 Mobile Development
 
-### ⚙️ Backend
+* Flutter
 
+### 🎨 Frontend Development
 
-\
+* HTML
+* CSS
+* JavaScript
+* React.js
 
----
+### ⚙️ Backend Development
 
-##   Currently Learning
+* PHP
+* Express.js
 
-📚 **Self-Learning Software Development**
+##   Currently Improving
 
-* 🚀 Node.js
-* ⚡ Express.js
-* 📱 Flutter
-* ⚛️ React
-* 💻 Full-Stack Development
-* 🧩 Building real-world projects
-* 📖 Continuously improving my programming skills
+I am focused on continuously developing my knowledge and practical skills in **Software Development**, especially in **Mobile App Development**.
 
----
+I enjoy learning new technologies, building projects, solving problems, and improving my development skills through practice.
 
 ## 🎯 My Goal
 
-> To become a skilled **Full-Stack Software Developer** and build useful, modern, and user-friendly applications.
+My goal is to continue learning, build strong software development skills, and grow into a successful **Software Engineer**, with a strong focus on **Mobile and Full Stack Development**.
 
 ---
 
-##   What I'm Interested In
+<p align="center">
+  <b>💻 Software Development • 📱 Mobile Apps • 🌐 Full Stack • 🚀 Continuous Learning</b>
+</p>
 
-* 💻 Software Development
-* 🌐 Web Development
-* 📱 Mobile App Development
-* 🎨 UI/UX Design
-* 🚀 Real-World Projects
-* 📚 Continuous Learning
-
----
-
-##   My Skills
-
-| Area           | Technologies                                 |
-| -------------- | -------------------------------------------- |
-| 🎨 Frontend    | HTML5, CSS3, JavaScript, React               |
-| 📱 Mobile      | Flutter                                      |
-| ⚙️ Backend     | Node.js, Express.js, PHP                     |
-| 💻 Development | Software Development, Full-Stack Development |
-
----
-
-##   Projects
-
-### 🌐 Web Development
-
-Building responsive websites and web applications while improving my frontend and backend skills.
-
-### 📱 Flutter Projects
-
-Learning and building cross-platform mobile applications with Flutter.
-
-### 💻 Full-Stack Projects
-
-Working on projects that combine frontend and backend technologies.
-
----
-
-##     My Learning Journey
-
-I am a **self-taught developer** who learns through:
-
-* 📖 Documentation and tutorials
-* 💻 Hands-on coding
-* 🧪 Experimenting with new technologies
-* 🚀 Building personal projects
-* 🔄 Learning from mistakes and improving continuously
-
----
-
-## 📫 Connect With Me
-
-💻 GitHub: **@mulkiisse**
-
----
-
-###    Learn • Build • Improve • Repeat 🚀
+<p align="center">
+  Thanks for visiting my GitHub profile! 👋
+</p>
